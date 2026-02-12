@@ -12,7 +12,7 @@ Inspired by my journey in computer science, I am passionate about cybersecurity 
 
 | Name                                          | View         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/MSafwanAwan/SOC-Automation-Lab"></a>|
+| SOC Automation Lab                            | <a href="https://github.com/MSafwanAwan/SOC-Automation-Lab">Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
