@@ -13,45 +13,83 @@ Inspired by my journey in computer science, I am passionate about cybersecurity 
 | Name                                          | View         |
 |-----------------------------------------------|----------------------------|
 | SOC Automation Lab                            | <a href="https://github.com/MSafwanAwan/SOC-Automation-Lab">Project</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Automation For High Severity Alerts  | <a href="https://github.com/MSafwanAwan/Automation-for-high-severity-alerts">Automation Lab</a>|
+| Wazuh Setup        | <a href="https://github.com/MSafwanAwan/Wazuh-Setup">Project Lab</a>|
+|  SIEM (Wazuh) Integration with Virustotal  | <a href="https://github.com/MSafwanAwan/VirusTotal-integration-with-Wazuh">Project Lab</a>|
+| Wazuh Integration with MISP (Threat Intel) | <a href="https://github.com/MSafwanAwan/MISP-Integration-with-Wazuh">Project Lab</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## 🛠 Tools & Technologies
 
-### Network
+### 📊 SIEM & Log Management
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh_SIEM-026C9C?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_Stack-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+---
+
+### 🔎 Network Security & Monitoring
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-CC0000?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Tcpdump-005C84?&style=for-the-badge&logo=gnubash&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
+---
+### 🤖 Security Automation & AI Integration
 <div>
+    <img src="https://img.shields.io/badge/-n8n_Automation-FF6D00?&style=for-the-badge&logo=n8n&logoColor=white" />
+    <img src="https://img.shields.io/badge/-SOAR-4B8BBE?&style=for-the-badge&logo=AzureDevOps&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python_for_Security-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenAI_API-412991?&style=for-the-badge&logo=OpenAI&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Machine_Learning_for_Threat_Detection-102230?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
+</div>
+
+---
+
+### 💻 Endpoint Security & Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Wazuh-026C9C?&style=for-the-badge&logo=Elastic&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-CC2927?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
-### SIEM
+---
+
+### 🧠 Threat Intelligence & Adversary Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-FF6F00?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATLAS-5A2CA0?&style=for-the-badge&logo=OpenSourceInitiative&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT&CK-ED1C24?&style=for-the-badge&logo=Target&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-YARA_Rules-000000?&style=for-the-badge&logo=YARA&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Threat_Intelligence_Enrichment-6A1B9A?&style=for-the-badge&logo=ThreatConnect&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+### ☁️ Cloud & Infrastructure Security
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=Kubernetes&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu- E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Git-181717?&style=for-the-badge&logo=Git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Terraform-623CE4?&style=for-the-badge&logo=Terraform&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+
+## 🎓 Certifications
+<div>
+    <img src="https://img.shields.io/badge/-CC_(ISC)²-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AI_Security-6A1B9A?&style=for-the-badge&logo=OpenAI&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Blue_Team_Junior_Analyst-1E3A8A?&style=for-the-badge&logo=Shield&logoColor=white" />
+</div>
+
+
